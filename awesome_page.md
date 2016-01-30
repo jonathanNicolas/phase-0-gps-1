@@ -2,7 +2,7 @@
 
 **This page is is awesome, just like it says**
 
-* *It will make it Italic* *
+*It will make it Italic* 
 
 
 **_Bold and italic_**
